@@ -1,14 +1,11 @@
-![RubyPS](https://raw.githubusercontent.com/kognise/among-js/main/banner.svg)
+![RubyPS](https://raw.githubusercontent.com/NotFluyd/RubyPS/main/rubypsbanner.png)
 
 ## About RubyPS
 
 RubyPS is a version of Cvolton's GDPS master, but to be designed more securely and run more efficently
 
-- Data: constants, enums, types, static game data, and more ([docs](https://among-js-docs.vercel.app/modules/data.html))
-- Hazel: a library for interacting with the Hazel network protocol ([docs](https://among-js-docs.vercel.app/modules/hazel.html))
-- Packets: rich Among Us packet parsing and serialization with a programmer-friendly API ([docs](https://among-js-docs.vercel.app/modules/packets.html))
-- Sus: simple and expressive object-oriented library for easily making bots and clients ([docs](https://among-js-docs.vercel.app/modules/sus.html))
-- Util: general utilities for reading bytes and more ([docs](https://among-js-docs.vercel.app/modules/util.html))
+- Secure: RubyPS includes many features to ensure your players have the best experience
+- C
 
 Among JS was designed with browser support in mind, meaning when the Hazel library supports WebSocket transports you'll be able to run Among Us bots and clients fully on the web *as well as* Node.js!
 
