@@ -2,10 +2,10 @@
 
 ## About RubyPS
 
-RubyPS is a version of Cvolton's GDPS master, but to be designed more securely and run more efficently
+RubyPS is a version of Cvolton's GDPS master, but to be designed more secure and run more efficently
 
 - Secure: RubyPS includes many features to ensure your players have the best experience
-- C
+- 
 
 Among JS was designed with browser support in mind, meaning when the Hazel library supports WebSocket transports you'll be able to run Among Us bots and clients fully on the web *as well as* Node.js!
 
