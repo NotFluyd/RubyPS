@@ -1,8 +1,8 @@
-![Among JS](https://raw.githubusercontent.com/kognise/among-js/main/banner.svg)
+![RubyPS](https://raw.githubusercontent.com/kognise/among-js/main/banner.svg)
 
-## About Among JS
+## About RubyPS
 
-Among JS is a set of utilities for interacting with the Among Us protocol written in TypeScript. It's composed of several self-contained libraries which are all published to NPM:
+RubyPS is a version of Cvolton's GDPS master, but to be designed more securely and run more efficently
 
 - Data: constants, enums, types, static game data, and more ([docs](https://among-js-docs.vercel.app/modules/data.html))
 - Hazel: a library for interacting with the Hazel network protocol ([docs](https://among-js-docs.vercel.app/modules/hazel.html))
