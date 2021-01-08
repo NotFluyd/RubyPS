@@ -6,7 +6,7 @@ RubyPS is a version of Cvolton's GDPS master, but to be designed more secure and
 
 - Secure: RubyPS includes many features to ensure your players have the best experience
 
-How to install [Wiki](https://wiki.weewoo.net/wiki/Protocol)
+How to setup a RubyPS GDPS [Wiki](https://leafygyt.gitbook.io/rubyps/)
 
 ## Important
 
